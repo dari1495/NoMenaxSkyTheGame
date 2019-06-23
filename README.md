@@ -6,7 +6,7 @@ No Menax Sky is a 2D and 3D adventure game about a peasant knight who seeks veng
 No Menax Sky was developed with our own fully custom engine built around OpenGL and written in C++. Every asset used was also entirely developed by our team or modified from an open source file.
 
 Aside from coding, the members of the team were also involved in different specific roles.
-Core Engine Developer: Marius Ionut Nemtanu
-Art & Animation: Alberto Martínez
-Sound Effects & Music: Darío Sánchez
-Artificial Intelligence: Alvaro Monteagudo
+- Core Engine Developer: Marius Ionut Nemtanu
+- Art & Animation: Alberto Martínez
+- Sound Effects & Music: Darío Sánchez
+- Artificial Intelligence: Alvaro Monteagudo
